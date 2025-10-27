@@ -3,7 +3,7 @@
 React frontend for file storage application with responsive design and component-based architecture.
 
 ## Here's the demo
-https://graceful-raindrop-411107.netlify.app
+[Deployed app](https://tranquil-kleicha-7cc256.netlify.app/)
 
 ## Features
 
